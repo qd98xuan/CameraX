@@ -1,0 +1,7 @@
+ext{
+    config=[
+            camerax_version : "1.0.0-beta03",
+            permisssionx_version:"1.4.0"
+
+    ]
+}
